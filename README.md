@@ -1,2 +1,1 @@
-# royalvista-app
-https://aurifyae.github.io/royalvista-app/
+https://aurifyae.github.io/Gold-King-App/
